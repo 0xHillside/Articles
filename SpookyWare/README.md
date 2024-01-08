@@ -1,0 +1,1 @@
+In this collection of articles I'll be explaining and teaching you how to create malware, I'll start with definitions, Then tools & technologies and dive deep into techniques. Once we have reached the techniques I'll then start teaching the MANUAL way of doing everything taught
